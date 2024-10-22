@@ -89,5 +89,5 @@ Limit Metric Collection to Specific Resources 항목에서 EC2 항목에 아래�
 
 
 6. 인스턴스 생성
-
+- ⚠️ 인스턴스의 tag 정보에 owner:datadog 입력
 
