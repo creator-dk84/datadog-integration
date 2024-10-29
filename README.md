@@ -12,6 +12,7 @@
 > 4. App Builder를 위한 Connection 생성
 > 5. App Builder를 위한 IAM 생성
 > 6. 인스턴스 생성
+> 7. Learning Center 계정 생성
 
 
 
@@ -90,4 +91,8 @@ Limit Metric Collection to Specific Resources 항목에서 EC2 항목에 아래�
 
 6. 인스턴스 생성
 - ⚠️ 인스턴스의 tag 정보에 owner:datadog 입력
+
+
+7. Learning Center 계정 생성
+   [회원가입](https://learn.datadoghq.com/users/sign_up)
 
