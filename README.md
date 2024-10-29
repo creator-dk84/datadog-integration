@@ -58,6 +58,8 @@
 
 
 스택 생성이 완료되면, Datadog 콘솔 화면에서 "Ready!" 버튼 클릭 또는 화면 '새로고침'을 하게되면 연동 된 계정 정보가 표시됩니다.
+![image](https://github.com/user-attachments/assets/e713cc40-9206-4b6f-a64c-5d56d4a02397)
+
 
 화면의 General 탭에서 Include all regions 비활성화 후, ap-northeast-2만 선택합니다.
 ![image](https://github.com/user-attachments/assets/f59e76d2-6e62-45c8-bba4-80f701b4d260)
