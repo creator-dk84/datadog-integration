@@ -15,6 +15,8 @@
 > 8. 인스턴스 생성 (Optional)
 
 
+# 실습 랩 환경 : https://bit.ly/4e9K9bq
+
 
 ### 1. AWS 프리티어 계정 생성
 [-> Create AWS Account](https://aws.amazon.com/ko/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
